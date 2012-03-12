@@ -10,3 +10,7 @@
 *.gz
 *.blg
 *.bbl
+rpz/.deps/
+rpz/tex/rpz.pdf
+rpz/tex/inc/
+

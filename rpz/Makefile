@@ -1,7 +1,7 @@
 # Tools
 
 PDFLATEX=pdflatex -interaction=nonstopmode
-TD=./utils/texdepend
+TD=utils/texdepend
 D2T=dot2tex -f pgf --crop --docpreamble "\usepackage[T2A]{fontenc} \usepackage[utf8]{inputenc} \usepackage[english, russian]{babel}"
 PDFTRIMWHITE=utils/pdftrimwhite
 
