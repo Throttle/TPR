@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*~
+*.db
+.idea/
+*.aux
+*.toc
+*.out
+*.log
+*.gz
+*.blg
+*.bbl
